@@ -1,7 +1,7 @@
 {
-  "name": "ehrenamtskarte-maplibre-style",
+  "name": "integreat-maplibre-style",
   "version": "0.1.0",
-  "description": "A free Mapbox GL basemap style for the ehrenamtskarte project",
+  "description": "A free Mapbox GL basemap style for the integreat project",
   "scripts": {
     "edit": "wget https://github.com/maputnik/editor/releases/download/v1.7.0/maputnik-linux.zip && unzip maputnik-linux.zip && chmod +x maputnik && ./maputnik --file style.json",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digitalfabrik/ehrenamtskarte-maplibre-style.git"
+    "url": "git+https://github.com/integreat/integreat-maplibre-style.git"
   },
   "keywords": [
     "maps",
@@ -21,9 +21,9 @@
   ],
   "author": "",
   "bugs": {
-    "url": "https://github.com/digitalfabrik/ehrenamtskarte-maplibre-style/issues"
+    "url": "https://github.com/integreat/integreat-maplibre-style/issues"
   },
-  "homepage": "https://github.com/digitalfabrik/ehrenamtskarte-maplibre-style#readme",
+  "homepage": "https://github.com/integreat/integreat-maplibre-style#readme",
   "devDependencies": {
     "@mapbox/mapbox-gl-style-spec": "^13.15.0",
     "husky": "^4.2.5",

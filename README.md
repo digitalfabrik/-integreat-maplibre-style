@@ -23,7 +23,6 @@ They were created using [OpenMapTiles](https://github.com/openmaptiles/openmapti
 - [OpenMapTiles](http://openmaptiles.org/) as vector data source
 - [Natural Earth Tiles](https://klokantech.github.io/naturalearthtiles/) for relief shading
 - [Maki](https://www.mapbox.com/maki-icons/) as icon set
-- Tiles from the Ehrenamtskarte project which shows stores
 
 ## Map Design
 

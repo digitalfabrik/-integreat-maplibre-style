@@ -16,26 +16,10 @@
       "tileSize": 256,
       "url": "https://maps.tuerantuer.org/natural_earth/tiles.json",
       "type": "raster"
-    },
-    "physical_stores": {
-      "type": "vector",
-      "tiles": [
-        "https://tiles.staging.ehrenamtskarte.app/rpc/physical_stores/{z}/{x}/{y}.pbf"
-      ],
-      "minZoom": 0,
-      "maxZoom": 14
-    },
-    "physical_stores_clustered": {
-      "type": "vector",
-      "tiles": [
-        "https://tiles.staging.ehrenamtskarte.app/rpc/physical_stores_clustered/{z}/{x}/{y}.pbf"
-      ],
-      "minZoom": 0,
-      "maxZoom": 14
     }
   },
-  "sprite": "https://tiles.staging.ehrenamtskarte.app/sprites/osm-liberty",
-  "glyphs": "https://tiles.staging.ehrenamtskarte.app/font-glyphs/glyphs/{fontstack}/{range}.pbf",
+  "sprite": "https://maps.tuerantuer.org/styles/integreat/sprites",
+  "glyphs": "https://maps.tuerantuer.org/styles/integreat/glyphs/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
