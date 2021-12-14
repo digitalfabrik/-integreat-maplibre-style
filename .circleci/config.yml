@@ -67,7 +67,7 @@ jobs:
           at: ~/artifacts
       - add_ssh_keys:
           fingerprints:
-            - "5e:b9:08:4e:01:f0:71:3c:74:0c:d9:10:3b:6d:74:de"
+            - "01:24:9a:b8:00:9d:c2:da:57:96:87:8a:3e:d5:54:e8"
       - run:
           name: "SSH Upload"
           command: |
