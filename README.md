@@ -80,10 +80,13 @@ Red          | `#ba3827`
 Brown        | `#725a50`
 Green        | `#76a723`
 
-**Modify Icons**
+**Modify Icons for POI Categories**
 
 1. Take the `iconset.json` and import it to the [Maki Editor](https://www.mapbox.com/maki-icons/editor/).
-2. Apply your changes and download the icons in SVG format and the iconset in JSON format.
-3. Format the JSON with `cat iconset.json | jq -MS '.'` for better legibility.
-4. Replace the current iconset.json in this repository with the updated one.
-5. Replace all the icons in the `svgs_iconset` with the SVGs downloaded from the Make Editor.
+2. Download filled icon from figma or material icon from google.
+3. Resize icon to 40x40 [SVG Editor](https://editor.method.ac/).
+4. Upload icon in all color groups. Keep in mind the naming convention of the icons: <name>_<hex>
+5. Download the icons in SVG format and the iconset in JSON format.
+6. Sort the json file alphabetically for better legibility [JSON ABC Sorter]https://novicelab.org/jsonabc/.
+7. Update the content of the `iconset.json`.
+8. Replace all the icons in the `svgs_iconset` with the SVGs downloaded from the Make Editor.
