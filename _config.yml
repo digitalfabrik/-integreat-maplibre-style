@@ -2,5 +2,5 @@
 title: OSM Liberty
 email: ammann@integreat-app.de
 description: A free Mapbox GL basemap based on open data
-baseurl: ""
+baseurl: ''
 markdown: kramdown

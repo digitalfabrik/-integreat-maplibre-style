@@ -14,9 +14,7 @@ You can use the style in your Mapbox GL maps.
 
 By default, the vector tiles, raster tiles and sprites directly and glyphs are served from [Tür an Tür](https://maps.tuerantuer.org).
 
-
 They were created using [OpenMapTiles](https://github.com/openmaptiles/openmaptiles).
-
 
 ## Data Sources
 
@@ -47,10 +45,13 @@ chmod +x maputnik
 A pre-commit hook is included to validate and format the JSON styles using
 [`mapbox-gl-style-spec`](https://www.npmjs.com/package/@mapbox/mapbox-gl-style-spec).
 To use, just install the NPM dev dependencies:
+
 ```
 npm install
 ```
+
 and then validate or format the style with
+
 ```
 npm run validate
 npm run format
@@ -71,21 +72,21 @@ Liberty's iconset. You can run the script with `python3 maki_list.py`.
 
 **Color Palette**
 
-Color Name   | Hex Value
--------------|----------
-Blue         | `#5d60be`
-Light Blue   | `#4898ff`
-Orange       | `#d97200`
-Red          | `#ba3827`
-Brown        | `#725a50`
-Green        | `#76a723`
+| Color Name | Hex Value |
+| ---------- | --------- |
+| Blue       | `#5d60be` |
+| Light Blue | `#4898ff` |
+| Orange     | `#d97200` |
+| Red        | `#ba3827` |
+| Brown      | `#725a50` |
+| Green      | `#76a723` |
 
 **Modify Icons for POI Categories**
 
 1. Take the `iconset.json` and import it to the [Maki Editor](https://www.mapbox.com/maki-icons/editor/).
 2. Download filled icon from figma or material icon from google.
 3. Resize icon to 40x40 [SVG Editor](https://editor.method.ac/).
-4. Upload icon in all color groups. Keep in mind the naming convention of the icons: <name>_<hex>
+4. Upload icon in all color groups. Keep in mind the naming convention of the icons: <name>\_<hex>
 5. Download the icons in SVG format and the iconset in JSON format.
 6. Sort the json file alphabetically for better legibility [JSON ABC Sorter]https://novicelab.org/jsonabc/.
 7. Update the content of the `iconset.json`.
