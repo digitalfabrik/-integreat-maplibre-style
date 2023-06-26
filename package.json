@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "validate": "./node_modules/.bin/gl-style-validate style.json",
     "diff": "bash -c 'diff <(./node_modules/.bin/gl-style-format style.json) style.json'",
-    "format": "./node_modules/.bin/gl-style-format style.json | ./node_modules/.bin/sponge style.json"
+    "format": "./node_modules/.bin/gl-style-format style.json | ./node_modules/.bin/sponge style.json && prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -26,10 +26,12 @@
   "homepage": "https://github.com/integreat/integreat-maplibre-style#readme",
   "devDependencies": {
     "@mapbox/mapbox-gl-style-spec": "^13.15.0",
-    "husky": "^4.2.5",
-    "sponge": "^0.1.0",
     "@mapbox/spritezero": "^8.0.0",
-    "d3-queue": "^3.0.7"
+    "d3-queue": "^3.0.7",
+    "husky": "^4.2.5",
+    "prettier": "^2.8.8",
+    "prettier-plugin-sort-json": "^1.0.0",
+    "sponge": "^0.1.0"
   },
   "husky": {
     "hooks": {

@@ -2,13 +2,12 @@ name: CI
 
 on:
   push:
-    branches: [ gh-pages ]
+    branches: [gh-pages]
   pull_request:
-    branches: [ gh-pages ]
+    branches: [gh-pages]
 
 jobs:
   test:
-
     runs-on: ubuntu-latest
 
     strategy:
@@ -16,11 +15,11 @@ jobs:
         node-version: [16.x]
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - run: npm install
-    - run: npm run validate
-    - run: npm run diff
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm install
+      - run: npm run validate
+      - run: npm run diff

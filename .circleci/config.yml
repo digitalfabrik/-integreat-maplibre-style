@@ -21,34 +21,34 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "Pull Submodules"
+          name: 'Pull Submodules'
           command: |
             git submodule init
             git submodule update
       - run:
-          name: "Install Dependencies"
+          name: 'Install Dependencies'
           command: npm install
       - run:
-          name: "Setup Artifacts Folder"
+          name: 'Setup Artifacts Folder'
           command: |
             mkdir ~/working
       - run:
-          name: "Copy Glyphs"
+          name: 'Copy Glyphs'
           command: |
             cp -r ./font-glyphs/* ~/working/
       - run:
-          name: "Generate sprites"
+          name: 'Generate sprites'
           command: |
             ./tools/generate_sprite_sheets
       - run:
-          name: "Add Files"
+          name: 'Add Files'
           command: |
             cp sprites*.json ~/working/
             cp sprites*.png ~/working/
             cp style.json ~/working/
             cp map.html ~/working/
       - run:
-          name: "Packing Artifact"
+          name: 'Packing Artifact'
           command: |
             mkdir ~/artifacts
             cd ~/working
@@ -67,9 +67,9 @@ jobs:
           at: ~/artifacts
       - add_ssh_keys:
           fingerprints:
-            - "01:24:9a:b8:00:9d:c2:da:57:96:87:8a:3e:d5:54:e8"
+            - '01:24:9a:b8:00:9d:c2:da:57:96:87:8a:3e:d5:54:e8'
       - run:
-          name: "SSH Upload"
+          name: 'SSH Upload'
           command: |
             sudo ssh-keyscan -H maps.tuerantuer.org >> known_hosts
             scp -o UserKnownHostsFile=known_hosts ~/artifacts/styles.tar.gz ci@maps.tuerantuer.org:/var/www/styles/integreat-styles.tar.gz
