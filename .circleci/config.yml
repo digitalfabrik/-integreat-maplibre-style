@@ -21,11 +21,6 @@ jobs:
     steps:
       - checkout
       - run:
-          name: 'Pull Submodules'
-          command: |
-            git submodule init
-            git submodule update
-      - run:
           name: 'Install Dependencies'
           command: npm install
       - run:
