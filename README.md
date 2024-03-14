@@ -86,8 +86,9 @@ Liberty's iconset. You can run the script with `python3 maki_list.py`.
 1. Take the `iconset.json` and import it to the [Maki Editor](https://www.mapbox.com/maki-icons/editor/).
 2. Download filled icon from figma or material icon from google.
 3. Resize icon to 40x40 [SVG Editor](https://editor.method.ac/).
-4. Upload icon in all color groups. Keep in mind the naming convention of the icons: <name>\_<hex>
-5. Download the icons in SVG format and the iconset in JSON format.
-6. Sort the json file alphabetically for better legibility [JSON ABC Sorter]https://novicelab.org/jsonabc/.
-7. Update the content of the `iconset.json`.
-8. Replace all the icons in the `svgs_iconset` with the SVGs downloaded from the Make Editor.
+4. Create files in all colors for this svg `sh create_svg_colors.sh '<icon_name>'` (tools/create_svg_colors.sh)
+5. Upload icons to the particular color groups.
+6. Download the icons in SVG format and the iconset in JSON format.
+7. Sort the json file alphabetically for better legibility [JSON ABC Sorter]https://novicelab.org/jsonabc/.
+8. Update the content of the `iconset.json`.
+9. Replace all the icons in the `svgs_iconset` with the SVGs downloaded from the Make Editor.
