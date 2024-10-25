@@ -1,21 +1,21 @@
 {
-  "activeGroupIndex": 11,
+  "activeGroupIndex": 0,
   "activeIconNames": [],
   "iconGroups": [
     {
       "name": "#07DC03",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#07dc03",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#07dc03",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#07DC03.svg": {
@@ -344,17 +344,17 @@
     {
       "name": "#1DC6C6",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#1dc6c6",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#1dc6c6",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#1DC6C6.svg": {
@@ -683,17 +683,17 @@
     {
       "name": "#2E98FB",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#2e98fb",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#2e98fb",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#2E98FB.svg": {
@@ -1022,17 +1022,17 @@
     {
       "name": "#3700D2",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#3700d2",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#9c4141",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#3700d2",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#9c4141"
       },
       "svgs": {
         "advice_#3700D2.svg": {
@@ -1361,17 +1361,17 @@
     {
       "name": "#3F8F01",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#3f8f01",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#3f8f01",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#3F8F01.svg": {
@@ -1700,17 +1700,17 @@
     {
       "name": "#585858",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#585858",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#585858",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#585858.svg": {
@@ -2057,17 +2057,17 @@
     {
       "name": "#A258FF",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#a258ff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#a258ff",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#A258FF.svg": {
@@ -2396,17 +2396,17 @@
     {
       "name": "#C38E03",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#c38e03",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#c38e03",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#C38E03.svg": {
@@ -2735,17 +2735,17 @@
     {
       "name": "#EE36DC",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#ee36dc",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#ee36dc",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#EE36DC.svg": {
@@ -3074,17 +3074,17 @@
     {
       "name": "#F2DA04",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#f2da04",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#f2da04",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#F2DA04.svg": {
@@ -3413,17 +3413,17 @@
     {
       "name": "#FF3333",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#ff3333",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#ff3333",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#FF3333.svg": {
@@ -3752,17 +3752,17 @@
     {
       "name": "#FF7C32",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#ff7c32",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#ff7c32",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#FF7C32.svg": {
@@ -4091,17 +4091,17 @@
     {
       "name": "Active Icons",
       "properties": {
-        "bgCircle": false,
-        "bgFill": "#000",
-        "bgRadius": 4,
-        "bgShape": false,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#f03c1d",
+        "bgSize": 4,
+        "bgFill": "#000",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": false,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": false,
+        "bgStroke": "#000"
       },
       "svgs": {
         "marker_40_active.svg": {
@@ -4154,17 +4154,17 @@
     {
       "name": "Eating",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4.5,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#d97200",
+        "bgSize": 4.5,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "alcohol_shop_11.svg": {
@@ -4478,17 +4478,17 @@
     {
       "name": "Education",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 1,
         "fill": "#725a50",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 1,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "college_11.svg": {
@@ -4619,17 +4619,17 @@
     {
       "name": "Health",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#ba3d27",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#ba3d27",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "danger_11.svg": {
@@ -4859,17 +4859,17 @@
     {
       "name": "Leisure",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#5d60be",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "amusement_park_11.svg": {
@@ -5237,17 +5237,17 @@
     {
       "name": "Nature",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#76a723",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "garden_11.svg": {
@@ -5435,17 +5435,17 @@
     {
       "name": "Public Service",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#725a50",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "cemetery_11.svg": {
@@ -5903,17 +5903,17 @@
     {
       "name": "Religion",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#725a50",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "place_of_worship_11.svg": {
@@ -6041,17 +6041,17 @@
     {
       "name": "Shopping",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#5d60be",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "bank_11.svg": {
@@ -6362,17 +6362,17 @@
     {
       "name": "Sport",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#76a723",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "america_football_11.svg": {
@@ -6680,17 +6680,17 @@
     {
       "name": "Tourism",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#725a50",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "campsite_11.svg": {
@@ -6908,17 +6908,17 @@
     {
       "name": "Transport",
       "properties": {
-        "bgCircle": false,
-        "bgFill": "#4898ff",
-        "bgRadius": 0,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#4898ff",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": false,
+        "bgRadius": 0,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "aerialway_11.svg": {
@@ -7379,17 +7379,17 @@
     {
       "name": "Unsorted",
       "properties": {
-        "bgCircle": false,
-        "bgFill": "#000",
-        "bgRadius": 4,
-        "bgShape": false,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#585858",
+        "bgSize": 4,
+        "bgFill": "#000",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": false,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": false,
+        "bgStroke": "#000"
       },
       "svgs": {
         "building_11.svg": {
