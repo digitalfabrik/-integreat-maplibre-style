@@ -1,21 +1,21 @@
 {
-  "activeGroupIndex": 11,
+  "activeGroupIndex": 0,
   "activeIconNames": [],
   "iconGroups": [
     {
       "name": "#07DC03",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#07dc03",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#07dc03",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#07DC03.svg": {
@@ -231,29 +231,11 @@
           ],
           "width": 40
         },
-        "multipois_#585858.svg": {
-          "height": 40,
-          "pathData": [
-            {
-              "d": "M13.3906 13.9644C12.8201 15.1915 13.1402 16.6895 14.1744 17.578C14.3304 17.7093 14.3858 17.8365 14.3755 18.0376C14.2668 19.9583 14.7757 21.7497 15.5246 23.4918C16.1874 25.0308 16.9795 26.4959 17.87 27.9118C17.9213 27.9918 17.9706 28.0718 18.0281 28.1642C17.4494 28.8865 16.8728 29.6088 16.2736 30.3577C16.0274 30.0643 15.7934 29.7914 15.5636 29.5123C13.7702 27.3454 12.0465 25.1272 10.6389 22.6813C9.67238 21.0048 8.82285 19.2729 8.30986 17.3974C6.97607 12.5075 10.1259 8.28249 14.1108 7.28728C17.0431 6.55472 19.6573 7.23188 21.9309 9.2223C21.9822 9.26745 22.0274 9.32285 22.0951 9.39262C21.8242 9.45828 21.58 9.51163 21.3358 9.5773C19.6922 10.0144 18.2722 10.8393 17.0739 12.0458C16.9569 12.1648 16.8523 12.2038 16.682 12.1772C15.342 11.9617 13.9713 12.7127 13.3906 13.9644Z"
-            },
-            {
-              "d": "M30.9412 14.5657C29.2462 11.5575 25.7004 9.96512 22.2428 10.6218C17.6792 11.4897 14.7695 15.9077 15.7811 20.4097C16.0643 21.6778 16.5609 22.8639 17.1108 24.0315C18.223 26.3913 19.6614 28.5499 21.2619 30.6019C22.0889 31.6648 22.9405 32.7052 23.792 33.7681C23.8515 33.7148 23.8721 33.7025 23.8864 33.684C25.3495 31.8536 26.8331 30.0417 28.1463 28.0964C29.5684 25.987 30.8139 23.7914 31.5588 21.3434C32.2708 19.0021 32.1539 16.7223 30.9412 14.5657ZM23.7879 21.8502C22.0581 21.842 20.6422 20.4241 20.6402 18.6984C20.6402 16.9685 22.0437 15.5732 23.792 15.5711C25.5752 15.5691 26.9541 16.9378 26.9521 18.7045C26.95 20.4446 25.5239 21.8605 23.7879 21.8502Z"
-            }
-          ],
-          "viewBox": [
-            "0",
-            "0",
-            "40",
-            "40"
-          ],
-          "width": 40
-        },
         "office_#07DC03.svg": {
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -362,17 +344,17 @@
     {
       "name": "#1DC6C6",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#1dc6c6",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#1dc6c6",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#1DC6C6.svg": {
@@ -592,7 +574,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -701,17 +683,17 @@
     {
       "name": "#2E98FB",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#2e98fb",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#2e98fb",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#2E98FB.svg": {
@@ -931,7 +913,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -1040,17 +1022,17 @@
     {
       "name": "#3700D2",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#3700d2",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#9c4141",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#3700d2",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#9c4141"
       },
       "svgs": {
         "advice_#3700D2.svg": {
@@ -1270,7 +1252,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -1379,17 +1361,17 @@
     {
       "name": "#3F8F01",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#3f8f01",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#3f8f01",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#3F8F01.svg": {
@@ -1609,7 +1591,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -1718,17 +1700,17 @@
     {
       "name": "#585858",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#585858",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#585858",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#585858.svg": {
@@ -1944,11 +1926,29 @@
           ],
           "width": 40
         },
+        "multipois_#585858.svg": {
+          "height": 40,
+          "pathData": [
+            {
+              "d": "M13.3906 13.9644C12.8201 15.1915 13.1402 16.6895 14.1744 17.578C14.3304 17.7093 14.3858 17.8365 14.3755 18.0376C14.2668 19.9583 14.7757 21.7497 15.5246 23.4918C16.1874 25.0308 16.9795 26.4959 17.87 27.9118C17.9213 27.9918 17.9706 28.0718 18.0281 28.1642C17.4494 28.8865 16.8728 29.6088 16.2736 30.3577C16.0274 30.0643 15.7934 29.7914 15.5636 29.5123C13.7702 27.3454 12.0465 25.1272 10.6389 22.6813C9.67238 21.0048 8.82285 19.2729 8.30986 17.3974C6.97607 12.5075 10.1259 8.28249 14.1108 7.28728C17.0431 6.55472 19.6573 7.23188 21.9309 9.2223C21.9822 9.26745 22.0274 9.32285 22.0951 9.39262C21.8242 9.45828 21.58 9.51163 21.3358 9.5773C19.6922 10.0144 18.2722 10.8393 17.0739 12.0458C16.9569 12.1648 16.8523 12.2038 16.682 12.1772C15.342 11.9617 13.9713 12.7127 13.3906 13.9644Z"
+            },
+            {
+              "d": "M30.9412 14.5657C29.2462 11.5575 25.7004 9.96512 22.2428 10.6218C17.6792 11.4897 14.7695 15.9077 15.7811 20.4097C16.0643 21.6778 16.5609 22.8639 17.1108 24.0315C18.223 26.3913 19.6614 28.5499 21.2619 30.6019C22.0889 31.6648 22.9405 32.7052 23.792 33.7681C23.8515 33.7148 23.8721 33.7025 23.8864 33.684C25.3495 31.8536 26.8331 30.0417 28.1463 28.0964C29.5684 25.987 30.8139 23.7914 31.5588 21.3434C32.2708 19.0021 32.1539 16.7223 30.9412 14.5657ZM23.7879 21.8502C22.0581 21.842 20.6422 20.4241 20.6402 18.6984C20.6402 16.9685 22.0437 15.5732 23.792 15.5711C25.5752 15.5691 26.9541 16.9378 26.9521 18.7045C26.95 20.4446 25.5239 21.8605 23.7879 21.8502Z"
+            }
+          ],
+          "viewBox": [
+            "0",
+            "0",
+            "40",
+            "40"
+          ],
+          "width": 40
+        },
         "office_#585858.svg": {
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -2057,17 +2057,17 @@
     {
       "name": "#A258FF",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#a258ff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#a258ff",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#A258FF.svg": {
@@ -2287,7 +2287,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -2396,17 +2396,17 @@
     {
       "name": "#C38E03",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#c38e03",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#c38e03",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#C38E03.svg": {
@@ -2626,7 +2626,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -2735,17 +2735,17 @@
     {
       "name": "#EE36DC",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#ee36dc",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#ee36dc",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#EE36DC.svg": {
@@ -2965,7 +2965,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -3074,17 +3074,17 @@
     {
       "name": "#F2DA04",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#f2da04",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#f2da04",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#F2DA04.svg": {
@@ -3304,7 +3304,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -3413,17 +3413,17 @@
     {
       "name": "#FF3333",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#ff3333",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#ff3333",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#FF3333.svg": {
@@ -3643,7 +3643,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -3752,17 +3752,17 @@
     {
       "name": "#FF7C32",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#ff7c32",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#ff7c32",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "advice_#FF7C32.svg": {
@@ -3982,7 +3982,7 @@
           "height": 40,
           "pathData": [
             {
-              "d": "M8 30V28.1053H23.3333V30H8ZM15.0917 23.3053L8 16.2947L10.2361 14.0211L17.3917 21.0316L15.0917 23.3053ZM23.2056 15.2842L16.1139 8.21053L18.4139 6L25.5056 13.0105L23.2056 15.2842ZM29.6583 28.7368L12.5361 11.8105L13.8778 10.4842L31 27.4105L29.6583 28.7368Z"
+              "d": "m11.7768,26.5662l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm6.968,0l0,-9.5023l1.901,0l0,9.5023l-1.901,0zm-10.7448,4.4338l0,-1.901l23.392,0l0,1.901l-23.392,0zm17.7142,-4.4352l0,-9.5022l1.901,0l0,9.5022l-1.901,0zm-17.7142,-12.0364l0,-1.8029l11.696,-5.7255l11.696,5.7255l0,1.8029l-23.392,0z"
             }
           ],
           "viewBox": [
@@ -4091,17 +4091,17 @@
     {
       "name": "Active Icons",
       "properties": {
-        "bgCircle": false,
-        "bgFill": "#000",
-        "bgRadius": 4,
-        "bgShape": false,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#f03c1d",
+        "bgSize": 4,
+        "bgFill": "#000",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": false,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": false,
+        "bgStroke": "#000"
       },
       "svgs": {
         "marker_40_active.svg": {
@@ -4154,17 +4154,17 @@
     {
       "name": "Eating",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4.5,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#d97200",
+        "bgSize": 4.5,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "alcohol_shop_11.svg": {
@@ -4478,17 +4478,17 @@
     {
       "name": "Education",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 1,
         "fill": "#725a50",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 1,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "college_11.svg": {
@@ -4619,17 +4619,17 @@
     {
       "name": "Health",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#ba3d27",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#ba3d27",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "danger_11.svg": {
@@ -4859,17 +4859,17 @@
     {
       "name": "Leisure",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#5d60be",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "amusement_park_11.svg": {
@@ -5237,17 +5237,17 @@
     {
       "name": "Nature",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#76a723",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "garden_11.svg": {
@@ -5435,17 +5435,17 @@
     {
       "name": "Public Service",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#725a50",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "cemetery_11.svg": {
@@ -5903,17 +5903,17 @@
     {
       "name": "Religion",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#725a50",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "place_of_worship_11.svg": {
@@ -6041,17 +6041,17 @@
     {
       "name": "Shopping",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#5d60be",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "bank_11.svg": {
@@ -6362,17 +6362,17 @@
     {
       "name": "Sport",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#76a723",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "america_football_11.svg": {
@@ -6680,17 +6680,17 @@
     {
       "name": "Tourism",
       "properties": {
-        "bgCircle": true,
-        "bgFill": "#fff",
-        "bgRadius": 4,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#bbb",
-        "bgStrokeWidth": 2,
         "fill": "#725a50",
+        "bgSize": 4,
+        "bgFill": "#fff",
+        "bgStrokeWidth": 2,
+        "strokeWidth": 0,
+        "bgCircle": true,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#bbb"
       },
       "svgs": {
         "campsite_11.svg": {
@@ -6908,17 +6908,17 @@
     {
       "name": "Transport",
       "properties": {
-        "bgCircle": false,
-        "bgFill": "#4898ff",
-        "bgRadius": 0,
-        "bgShape": true,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#fff",
+        "bgSize": 4,
+        "bgFill": "#4898ff",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": false,
+        "bgRadius": 0,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": true,
+        "bgStroke": "#000"
       },
       "svgs": {
         "aerialway_11.svg": {
@@ -7379,17 +7379,17 @@
     {
       "name": "Unsorted",
       "properties": {
-        "bgCircle": false,
-        "bgFill": "#000",
-        "bgRadius": 4,
-        "bgShape": false,
-        "bgSize": 4,
-        "bgStroke": "#000",
-        "bgStrokeWidth": 0,
         "fill": "#585858",
+        "bgSize": 4,
+        "bgFill": "#000",
+        "bgStrokeWidth": 0,
+        "strokeWidth": 0,
+        "bgCircle": false,
+        "bgRadius": 4,
         "stroke": "#000",
         "strokeOpt": false,
-        "strokeWidth": 0
+        "bgShape": false,
+        "bgStroke": "#000"
       },
       "svgs": {
         "building_11.svg": {
